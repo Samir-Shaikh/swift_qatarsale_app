@@ -1,0 +1,6 @@
+framework module Pods_qatarsale_app_task {
+  umbrella header "Pods-qatarsale_app_task-umbrella.h"
+
+  export *
+  module * { export * }
+}

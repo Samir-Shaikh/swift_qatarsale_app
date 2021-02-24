@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-qatarsale_app_task/Pods-qatarsale_app_task-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Gloss/Gloss.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
